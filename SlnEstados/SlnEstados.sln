@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjEstados", "PrjEstados\PrjEstados.csproj", "{679ADB08-0D69-48FD-9E48-B0D2A565420F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alunos", "Alunos\Alunos.csproj", "{DDD01295-2BBD-4DE8-AC6C-B632C42E51FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679ADB08-0D69-48FD-9E48-B0D2A565420F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679ADB08-0D69-48FD-9E48-B0D2A565420F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679ADB08-0D69-48FD-9E48-B0D2A565420F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679ADB08-0D69-48FD-9E48-B0D2A565420F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD01295-2BBD-4DE8-AC6C-B632C42E51FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD01295-2BBD-4DE8-AC6C-B632C42E51FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD01295-2BBD-4DE8-AC6C-B632C42E51FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD01295-2BBD-4DE8-AC6C-B632C42E51FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A8E9C0-4931-4E34-BB29-9DA9B8AF93C6}
+	EndGlobalSection
+EndGlobal

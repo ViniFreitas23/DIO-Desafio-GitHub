@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\Senac\Visual Studio\SlnContagem\PrjContagem\bin\Debug\PrjContagem.exe.config
+C:\Users\vinic\Desktop\Senac\Visual Studio\SlnContagem\PrjContagem\bin\Debug\PrjContagem.exe
+C:\Users\vinic\Desktop\Senac\Visual Studio\SlnContagem\PrjContagem\bin\Debug\PrjContagem.pdb
+C:\Users\vinic\Desktop\Senac\Visual Studio\SlnContagem\PrjContagem\obj\Debug\PrjContagem.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Senac\Visual Studio\SlnContagem\PrjContagem\obj\Debug\PrjContagem.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Senac\Visual Studio\SlnContagem\PrjContagem\obj\Debug\PrjContagem.exe
+C:\Users\vinic\Desktop\Senac\Visual Studio\SlnContagem\PrjContagem\obj\Debug\PrjContagem.pdb
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnContagem\PrjContagem\bin\Debug\PrjContagem.exe.config
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnContagem\PrjContagem\bin\Debug\PrjContagem.exe
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnContagem\PrjContagem\bin\Debug\PrjContagem.pdb
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnContagem\PrjContagem\obj\Debug\PrjContagem.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnContagem\PrjContagem\obj\Debug\PrjContagem.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnContagem\PrjContagem\obj\Debug\PrjContagem.exe
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnContagem\PrjContagem\obj\Debug\PrjContagem.pdb

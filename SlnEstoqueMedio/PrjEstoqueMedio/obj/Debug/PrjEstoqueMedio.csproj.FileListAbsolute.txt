@@ -1,0 +1,7 @@
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnEstoqueMedio\PrjEstoqueMedio\bin\Debug\PrjEstoqueMedio.exe.config
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnEstoqueMedio\PrjEstoqueMedio\bin\Debug\PrjEstoqueMedio.exe
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnEstoqueMedio\PrjEstoqueMedio\bin\Debug\PrjEstoqueMedio.pdb
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnEstoqueMedio\PrjEstoqueMedio\obj\Debug\PrjEstoqueMedio.csprojAssemblyReference.cache
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnEstoqueMedio\PrjEstoqueMedio\obj\Debug\PrjEstoqueMedio.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnEstoqueMedio\PrjEstoqueMedio\obj\Debug\PrjEstoqueMedio.exe
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnEstoqueMedio\PrjEstoqueMedio\obj\Debug\PrjEstoqueMedio.pdb

@@ -1,0 +1,7 @@
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnEstados\PrjEstados\obj\Debug\PrjEstados.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnEstados\PrjEstados\obj\Debug\PrjEstados.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnEstados\PrjEstados\bin\Debug\PrjEstados.exe.config
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnEstados\PrjEstados\bin\Debug\PrjEstados.exe
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnEstados\PrjEstados\bin\Debug\PrjEstados.pdb
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnEstados\PrjEstados\obj\Debug\PrjEstados.exe
+C:\Users\vinic\Desktop\Senac\ProjetosTI41\SlnEstados\PrjEstados\obj\Debug\PrjEstados.pdb

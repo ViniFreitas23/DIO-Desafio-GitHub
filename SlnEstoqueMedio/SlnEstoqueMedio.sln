@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjEstoqueMedio", "PrjEstoqueMedio\PrjEstoqueMedio.csproj", "{4A085AFE-339E-43B5-9256-204778071809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjCalculoComissao", "PrjCalculoComissao\PrjCalculoComissao.csproj", "{AA593F89-E317-4F6C-A32D-AB4690B88749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A085AFE-339E-43B5-9256-204778071809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A085AFE-339E-43B5-9256-204778071809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A085AFE-339E-43B5-9256-204778071809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A085AFE-339E-43B5-9256-204778071809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA593F89-E317-4F6C-A32D-AB4690B88749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA593F89-E317-4F6C-A32D-AB4690B88749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA593F89-E317-4F6C-A32D-AB4690B88749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA593F89-E317-4F6C-A32D-AB4690B88749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18051573-7069-4B06-ADA5-54EEFA2A54C1}
+	EndGlobalSection
+EndGlobal

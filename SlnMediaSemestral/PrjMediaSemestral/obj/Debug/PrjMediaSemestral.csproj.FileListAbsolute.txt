@@ -1,0 +1,7 @@
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnMediaSemestral\PrjMediaSemestral\bin\Debug\PrjMediaSemestral.exe.config
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnMediaSemestral\PrjMediaSemestral\bin\Debug\PrjMediaSemestral.exe
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnMediaSemestral\PrjMediaSemestral\bin\Debug\PrjMediaSemestral.pdb
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnMediaSemestral\PrjMediaSemestral\obj\Debug\PrjMediaSemestral.csprojAssemblyReference.cache
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnMediaSemestral\PrjMediaSemestral\obj\Debug\PrjMediaSemestral.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnMediaSemestral\PrjMediaSemestral\obj\Debug\PrjMediaSemestral.exe
+C:\Users\vinicius.fcorreia\Documents\ProjetosTI41\SlnMediaSemestral\PrjMediaSemestral\obj\Debug\PrjMediaSemestral.pdb
