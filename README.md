@@ -1,2 +1,2 @@
-# DIO-Desafio-GitHub
-Desafio de criação de repositório GitHub - Bootcamp Everis 
+# DIO - Desafio GitHub
+Projeto de criação de repositório GitHub - Bootcamp Everis .NET
